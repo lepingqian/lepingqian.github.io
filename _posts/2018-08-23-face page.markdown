@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Isaiah Qian
+date:   2023-07-23 16:05:55 +0300
+image:  01.jpg
+tags:   [background]
+---
+I am a Master's student actively pursuing opportunities in the field of Data Science, armed with ample project experience spanning machine learning and data analytics. My research is centered at the crossroads of recommender systems and neural network models. Profoundly versed in statistics and data analytics, I boast robust programming skills in both Python and SQL.
+
+
+![]({{site.baseurl}}/img/04.jpg)
+
