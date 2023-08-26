@@ -1,25 +1,23 @@
 #-------------------------------
 # General Site Settings
 
-title: Galada Theme | Theme for Jekyll
-description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
+title: Isaiah Qian Blog
+description: This is my personal Blog web
 baseurl: "/galada" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lepingqian.github.io" 
 
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
+author-name:   LePing Qian
 author-avatar: 09.jpg
 
 
 #-------------------------------
 # Contact links
 facebook:  https://facebook.com/ # Add your Facebook handle
-twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
-pinterest: https://www.pinterest.com/ # Add your Facebook handle
-
+Linkedin:  https://www.linkedin.com/in/leping-qian-a0148721a/ # Add your Linkedin handle
+instagram: https://www.instagram.com/light_lele_/ # Add your Facebook handle
 
 #-------------------------------
 # Comment Section (Disqus)
