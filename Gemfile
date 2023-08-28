@@ -3,8 +3,8 @@
 source "https://rubygems.org"
 gem 'wdm'
 gem 'jekyll'
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
+gem "jekyll-paginate", "1.1.0"
+gem "jekyll-sitemap", "1.4.0"
 
 
 # gem "rails"
