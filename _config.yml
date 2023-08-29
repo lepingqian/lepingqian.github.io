@@ -3,7 +3,7 @@
 
 title: Isaiah Qian Blog
 description: This is my personal Blog web
-baseurl: "/galada" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lepingqian.github.io" 
 
 
