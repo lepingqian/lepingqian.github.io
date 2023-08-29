@@ -7,6 +7,43 @@ tags:   [background]
 ---
 I am a Master's student actively pursuing opportunities in the field of Data Science, armed with ample project experience spanning machine learning and data analytics. My research is centered at the crossroads of recommender systems and neural network models. Profoundly versed in statistics and data analytics, I boast robust programming skills in both Python and SQL.
 
+> ### Education
 
-![]({{site.baseurl}}/img/04.jpg)
+#### Bachelor of Computer Science in Shanghai University
+
+I pursued my undergraduate studies in Computer Science at Shanghai University, one of China's top 10% ranked institutions. Throughout my undergraduate years, I garnered several honors, including the prestigious "Model Student of Academic Records Scholarship Recipient" (1% of tatal student) in 2019, and I was recognized as an Outstanding Graduate in 2022. During this period, I also actively engaged in various national-level competitions, achieving a first-place award in the National Data Analysis Competition and an accolade for excellence in the College Student Entrepreneurship Contest.
+
+#### Master of Management in Tulane University
+
+Building upon my solid academic foundation, I pursued a Master of Management degree at Tulane University in the United States. Despite my transition to the realm of business, I continued my pursuit of knowledge in the field of machine learning by enrolling in advanced courses such as Deep Neural Networks and Mathematical Statistics. This multidisciplinary approach reflects my commitment to merging the insights from computer science with business acumen, thereby equipping myself with a holistic skill set for the contemporary professional landscape.
+
+> ### Work Experience
+
+#### Financial Fraud Risk Analyst 
+
+In my most recent role, I undertook a Commercial Banking Financial Fraud Risk Analyst Internship at Hang Seng Bank. During this internship, I focused on harnessing the power of data analysis and machine learning to scrutinize vast amounts of data, often in the gigabyte range, pertaining to new clientele. I am particularly proud to highlight the achievement of an impressive accuracy rate of 82% through my analytical efforts. For an in-depth exploration of the specifics of this role, I invite you to refer to another blog post where I delve into the details.
+
+#### Investment Banking Summer Analyst 
+
+I also gained valuable experience through two other distinct roles. As an Investment Banking Summer Analyst at China International Capital Corporation Limited (CICC), I concentrated on the steel industry. My primary accomplishment involved constructing a sophisticated deep learning time series model, specifically a Long Short-Term Memory (LSTM) model, for predicting stock prices. I executed this task using TensorFlow, a powerful machine learning framework.
+
+#### Business Analyst Intern
+
+Furthermore, during my tenure as a Business Analyst Intern at China United Property Insurance Co., Ltd., I was entrusted with the task of uncovering and analyzing data to facilitate informed decision-making. In this capacity:
+
+I spearheaded the development of Python scripts to facilitate data scraping. By skillfully implementing web crawlers, I successfully gathered essential insurance policyholder information from diverse online sources. This innovative approach resulted in automated data aggregation, leading to a remarkable 200% reduction in time expenditure.
+
+These experiences highlight my commitment to leveraging data-driven insights and employing cutting-edge techniques to enhance operational efficiency and drive strategic decision-making across various sectors.
+
+> ### Project
+
+#### Movie Recommendation System Design
+ 
+One of the pivotal projects during my academic journey was the "Movie Recommendation System Design," which I conducted under the guidance of Dr. Gang Yu. This project not only showcased my technical prowess but also my ability to craft innovative solutions in real-world contexts.
+
+To begin with, I established a robust data pipeline that facilitated the seamless preprocessing and analysis of a movie rating dataset. My meticulous approach optimized the data cleaning and exploratory data analysis processes, thereby laying a solid foundation for the subsequent stages.
+
+Building upon this groundwork, I embarked on the development of user-based collaborative filtering algorithms. These algorithms played a pivotal role in furnishing initial movie recommendations, effectively boosting user engagement and mitigating the challenges posed by the cold-start problem often encountered in recommendation systems.Furthermore, I demonstrated my proficiency by conceiving and executing the implementation of a deep learning model. This model, notable for its integration of both user and item features, boasted three hidden layers. This architectural innovation underscored my capability to synergize intricate aspects of machine learning and neural networks to craft efficient and effective solutions.
+
+In the spirit of continuous improvement, I engaged in comprehensive experimentation. This involved the fusion of diverse models to yield more precise recommendation strategies catering to various scenarios. This strategic amalgamation of models culminated in an amplified degree of accuracy, further enhancing the efficacy of the recommendation system.
 
