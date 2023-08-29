@@ -3,7 +3,7 @@ layout: post
 title:  Bank Customer Churn Prediction 
 date:   2021-12-01 16:03:30 +0300
 image:  05.jpg
-tags:   CICC
+tags:   Machine_Learning
 ---
 ## 1. introduction
 
